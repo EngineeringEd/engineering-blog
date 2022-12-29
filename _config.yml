@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ''
+baseurl: '/'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -24,7 +24,7 @@ title: JustPark Engineering
 tagline: Engineering blog for the UK's most loved parking app
 
 description: >-     # used by seo meta and the atom feed
-  UK's most loved parking app
+  Engineering blog for the UK's most loved parking app
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://engineeringed.github.io'
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/lib/img/fIN3925d_400x400.jpeg
+avatar: assets/img/fIN3925d_400x400.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
