@@ -27,7 +27,7 @@ description: >-     # used by seo meta and the atom feed
   Engineering blog for the UK's most loved parking app
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://engineeringed.github.io'
+url: 'https://engineeringed.github.io/engineeringed'
 
 github:
   username: github_username             # change to your github username
